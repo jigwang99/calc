@@ -1,4 +1,3 @@
-
-int add(int a, int b){
-	return a + b;
+long long add(int a, int b){
+	return (long long) a + b;
 }
